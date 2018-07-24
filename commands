@@ -1,0 +1,16 @@
+mix deps.get # update/install dependencies (like pip)
+mix new project --sup # create new project
+
+Process.whereis(:tweet_server) 
+Process.whereis(:tweet_server) |> Process.exit(:kill)
+
+mix test.watch --only watching
+@tag watching: true
+
+iex -S mix
+
+
+# Phoenix
+mix phx.server
+
+mix ecto # Show examples of ecto commands

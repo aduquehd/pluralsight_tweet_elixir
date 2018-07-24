@@ -1,0 +1,4 @@
+Testing Elixir Twitter Application
+Test of Elixir Application
+A logn string, needs taadsfoqihweorih qwoerih qwoiehr oqweso be longer than 140 characters. this is a test something to see this, this will be very very but really very long!!!
+Learning Elixir Course using Twitter API
